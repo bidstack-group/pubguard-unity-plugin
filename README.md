@@ -50,7 +50,7 @@ Before installing the Pubguard library you will need an application key that is 
 
 ![Unity Package Import](images/unity-package-import.png)
 
-3. Pubguard Unity Plugin uses External Dependency Manager for Unity to resolve dependencies. If you have used External Dependency Manager before you can see an offer to delete outdated files, click **Apply**
+3. Pubguard Unity Plugin uses External Dependency Manager for Unity to resolve dependencies. If you have used External Dependency Manager before you can see an option to delete outdated files, click **Apply**
 
 ![Google Version Handler](images/google-version-handler.png)
 
@@ -67,6 +67,8 @@ Before installing the Pubguard library you will need an application key that is 
 
 6. Click on the **PubguardControler** and from the Inspector tab enter the Pubguards's Application Key.
    Check the [Prerequisites](#Prerequisites) section explaining how to obtain the Application Key.
+   
+   **Note** It is necessary to include two separate API Keys for Android and for iOS
 
 ![Pubguard Controller Inspector](images/pubguard-controller-inspector.png)
 
