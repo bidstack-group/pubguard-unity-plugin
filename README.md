@@ -44,33 +44,33 @@ Before installing the Pubguard library you will need an application key that is 
 
 1. Open your project in the Unity editor. Select **Assets > Import Package > Custom Package** and find the Pubguard.unitypackage file you downloaded
 
-![Unity Package Importing](images/unity-package-importing.png)
+    ![Unity Package Importing](images/unity-package-importing.png)
 
 2. Make sure all of the files are selected and click **Import**.
 
-![Unity Package Import](images/unity-package-import.png)
+    ![Unity Package Import](images/unity-package-import.png)
 
 3. Pubguard Unity Plugin uses External Dependency Manager for Unity to resolve dependencies. If you have used External Dependency Manager before you can see an option to delete outdated files, click **Apply**
 
-![Google Version Handler](images/google-version-handler.png)
+    ![Google Version Handler](images/google-version-handler.png)
 
 4. **(only for Android)** In the Unity editor, select **Assets > External Dependency Manager > Android Resolver > Force Resolve** (If you make any changes which affect Android dependencies, then run Resolver again)
 
-![Android Resolver](images/android-resolver.png)
+    ![Android Resolver](images/android-resolver.png)
 
 5. Add **PubguardController** prefab:
     - From **Project** tab expand **Assets > Prefabs**
     - Drag and Drop **Pubguard** prefab to the Project Hierachy list
     - The **PubguardController** shoud appear in the Hierachy list as shown on the image below
 
-![Pubguard Prefab](images/pubguard-prefab.png)
+    ![Pubguard Prefab](images/pubguard-prefab.png)
 
 6. Click on the **PubguardControler** and from the Inspector tab enter the Pubguards's Application Key.
    Check the [Prerequisites](#Prerequisites) section explaining how to obtain the Application Key.
    
    **Note** It is necessary to include two separate API Keys for Android and for iOS
 
-![Pubguard Controller Inspector](images/pubguard-controller-inspector.png)
+    ![Pubguard Controller Inspector](images/pubguard-controller-inspector.png)
 
 ---
 
