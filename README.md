@@ -17,7 +17,6 @@ The data from the library is then accessible via your account on the Pubguard da
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
 - [Integrating](#integrating)
-- [Change Log](#changelog)
 - [Versioning](#versioning)
 - [License](#license)
 
@@ -70,12 +69,6 @@ Before installing the Pubguard library you will need an application key that is 
    Check the [Prerequisites](#Prerequisites) section explaining how to obtain the Application Key.
 
 ![Pubguard Controller Inspector](images/pubguard-controller-inspector.png)
-
----
-
-# Changelog
-
-For all release notes and previous versions please see our [changelog](changelog.md).
 
 ---
 
