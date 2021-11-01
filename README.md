@@ -6,9 +6,9 @@
 
 A guide to installing Pubguard on your Unity3D project
 
-The Pubguard Library is a solution that monitors the advertising content flowing through your mobile app, protecting against unwanted content and optimizing revenues.
+The Pubguard framework is a solution that monitors the advertising content flowing through your mobile app, protecting against unwanted content and optimizing revenues.
 
-The data from the library is then accessible via your account on the Pubguard dashboard where you can set up preferences, alerts and browse the gallery.
+The data from the framework is then accessible via your account on the Pubguard dashboard where you can set up preferences, alerts and browse the gallery.
 
 ---
 
@@ -24,13 +24,13 @@ The data from the library is then accessible via your account on the Pubguard da
 
 # Getting Started
 
-These instructions will enable you to get the Pubguard library running on your Unity project.
+These instructions will enable you to get the Pubguard framework running on your Unity project.
 - Android instructions can be found [here](https://github.com/bidstack-group/pubguard-sdk-android)  
 - iOS instructions can be found [here](https://github.com/bidstack-group/pubguard-sdk-ios)
 
 ## Prerequisites
 
-Before installing the Pubguard library you will need an application key that is available from your account, to receive an API key please sign up from http://dashboard.pubguard.com or email support@pubguard.com. The key is used in both the iOS and Android installations.
+Before installing the Pubguard framework you will need an application key that is available from your account, to receive an API key please sign up from http://dashboard.pubguard.com or email support@pubguard.com. The key is used in both the iOS and Android installations.
 
 ## Requirements
 
